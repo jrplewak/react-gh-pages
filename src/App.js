@@ -25,7 +25,7 @@ function App() {
 <center><h1>A STUFFED CRUST that WILL MAKE U BUST!</h1></center>
 <center><h1 style={{'fontFamily': 'Courier New'}}>FREE PERSONAL PETZAH</h1></center>
   
-<center><h1 style={{'fontFamily': 'Courier New'}}>CALL NOW 24/7 FREE DELIVERY  7165723233</h1></center>
+<center><h1 style={{'fontFamily': 'Courier New'}}>CALL NOW 24/7 FREE DELIVERY </h1></center>
 <center><h1 style={{'fontFamily': 'Courier New'}}>first order is FREE!!!!</h1></center>
 
 
